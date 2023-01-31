@@ -10,3 +10,5 @@ for(var i=0;i<listitem.length;i++)
 {
     listitem[i].style.fontWeight='bold';
 }
+var li=document.getElementsByTagName('li');
+li[4].style.fontWeight='bold';
