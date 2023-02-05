@@ -39,6 +39,3 @@ function removeItem(e)
         }
     }
 }
-
-
-
