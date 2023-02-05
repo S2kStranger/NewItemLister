@@ -16,7 +16,7 @@ function additem(e)
     editbtn.appendChild(document.createTextNode('Edit'));
     li.appendChild(editbtn);
     items.appendChild(li);
-
+ 
     //Adding delete button
     var delbtn=document.createElement('button');
     delbtn.className="btn btn-danger btn-sm float-right delete mr-1";
