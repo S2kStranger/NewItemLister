@@ -12,7 +12,7 @@ function additem(e)
     li.className="list-group-item";
     li.appendChild(document.createTextNode(text+" "+desc));
     document.getElementById('item').value='';
-    document.getElementById('description').value='';
+    document.getElementById('description').value=''; 
     
     
     //Adding Edit button
